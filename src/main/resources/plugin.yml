@@ -1,0 +1,7 @@
+name: InventoryManager
+version: ${project.version}
+main: inventorymanager.inventorymanager.InventoryManager
+api-version: 1.16
+authors: [ NumbThumb, PureVoidy ]
+description: dungeons inventory/tool manager
+website: kane-bot.xyz
